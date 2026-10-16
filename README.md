@@ -1,1 +1,1 @@
-# Grupo_2
+# calculadora-equipo-2
